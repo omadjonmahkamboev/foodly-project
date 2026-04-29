@@ -13,10 +13,10 @@ Foodly is a food delivery project where users can browse food categories, view m
 
 ## Technologies
 
-- HTML
-- CSS
-- JavaScript
+- Java
+- Kotlin
+- Jatpack Compose
 
 ## Author
 
-Created by Omadjon
+Created by Omadjon Mahkamboev
